@@ -1,0 +1,11 @@
+div > div {
+    height: 200px;
+    width: 200px;
+    border: solid;
+    font-size: 165px;
+    text-align: center;
+}
+
+body {
+    display: flex;
+}
